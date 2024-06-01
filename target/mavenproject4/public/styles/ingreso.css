@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(215, 216, 210);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#ingresoUsuarioPrincipal {
+  background-color: rgb(147, 148, 141);
+  width: 500px;
+  height: 550px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.opciones {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.titulosIngreso {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 50px;
+  margin-top: 70px;
+}
+
+.btGeneral {
+  width: 200px;
+  height: 50px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: large;
+  background-color: rgb(147, 144, 197);
+  border-radius: 50px;
+}
+.imagenAtras {
+  width: 50px;
+  height: 50px;
+  background-color: rgb(0, 0, 0, 0);
+  margin-top: 0%;
+}
+.btAtras {
+  height: 50px;
+  background-color: rgb(0, 0, 0, 0);
+  border: none;
+  margin: 20px;
+}

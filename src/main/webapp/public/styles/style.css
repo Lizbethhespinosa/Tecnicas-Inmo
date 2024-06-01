@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(215, 216, 210);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#botones1 {
+  margin-top: 50px;
+}
+#botones2 {
+  margin-top: 80px;
+}
+
+.imagenAtras {
+  width: 50px;
+  height: 50px;
+  background-color: rgb(0, 0, 0, 0);
+  margin-top: 0%;
+}
+.btAtras {
+  height: 50px;
+  background-color: rgb(0, 0, 0, 0);
+  border: none;
+  margin: 20px;
+}
+#ingresoPrincipal {
+  background-color: rgb(147, 148, 141);
+  width: 500px;
+  height: 630px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+#botones3 {
+  display: flex;
+  align-items: center;
+  width: 120px;
+  height: 50px;
+  padding: 10px;
+  margin-left: 250px;
+  margin-top: 30px;
+}
+.inputDatos {
+  width: 250px;
+  height: 25px;
+}

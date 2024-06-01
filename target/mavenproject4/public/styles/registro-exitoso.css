@@ -1,0 +1,40 @@
+body {
+  text-align: center;
+  margin-top: 2rem;
+  font-family: "Courier New", Courier, monospace;
+  background-color: rgb(215, 216, 210);
+  color: #8c8c8c;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h2 {
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 800;
+  font-size: 2rem;
+}
+
+p:first-of-type {
+  font-size: 1.5rem;
+  color: #f6f6f7;
+}
+
+p {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.2rem;
+  color: rgb(54, 47, 47);
+  font-weight: 800;
+}
+.inicio {
+  width: 500px;
+  height: 550px;
+  background-color: rgb(147, 148, 141);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 4rem;
+  margin-top: 50px;
+}

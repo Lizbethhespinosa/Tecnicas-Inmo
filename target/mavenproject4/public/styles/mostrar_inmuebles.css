@@ -1,0 +1,70 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(215, 216, 210);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.inicio {
+  width: 1000px;
+  height: 800px;
+  background-color: rgb(147, 148, 141);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 4rem;
+  margin-top: 50px;
+}
+.tabla {
+  background-color: azure;
+  border-collapse: collapse;
+  width: 90%;
+  
+}
+th, td {
+    border: 1px solid black; 
+    padding: 8px; 
+    text-align: left; 
+}
+.btGeneral {
+    width: 200px;
+    height: 50px;
+    font-family: "Times New Roman", Times, serif;
+    font-size: large;
+    background-color: rgb(147, 144, 197);
+    border-radius: 50px;
+  }
+  .imagenAtras {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(0, 0, 0, 0);
+    margin-top: 0%;
+  }
+  .btAtras {
+    height: 50px;
+    background-color: rgb(0, 0, 0, 0);
+    border: none;
+    margin: 20px;
+  }
+  
+  .input {
+    background-color: #eee;
+    border: none;
+    padding: 1rem;
+    font-size: 1rem;
+    width: 13em;
+    border-radius: 1rem;
+    color: lightcoral;
+    box-shadow: 0 0.4rem #dfd9d9;
+    cursor: pointer;
+  }
+  btGeneral {
+    width: 200px;
+    height: 50px;
+    font-family: "Times New Roman", Times, serif;
+    font-size: large;
+    background-color: rgb(147, 144, 197);
+    border-radius: 50px;
+  }

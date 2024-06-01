@@ -1,0 +1,8 @@
+com\mycompany\daos\ClienteDAO.class
+com\mycompany\models\Inmobiliaria.class
+com\mycompany\servlets\casasServlet.class
+com\mycompany\models\Cliente.class
+com\mycompany\servlets\registroServlet.class
+com\mycompany\Test.class
+com\mycompany\daos\InmobiliariaDAO.class
+com\mycompany\servlets\inmuebleServlet.class
